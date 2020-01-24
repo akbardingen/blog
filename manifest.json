@@ -1,0 +1,38 @@
+{
+  "name": "Akbar Dingen",
+  "short_name": "AkbarDingen",
+  "start_url": "https://www.akbardingen.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#3b4853",
+  "description": "Personal Blog Game",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-B2_fp_7WG5c/XipAzScrNZI/AAAAAAAAA3I/sO70Onwyid8pbgPbNJgXY1aMwHNn8oASwCLcBGAsYHQ/s48/F48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-NjTCcyigD_o/XipA0VNEl5I/AAAAAAAAA3Q/D-GI1rw3wlQY3WsdYgGVcAVZizlG4-w8gCLcBGAsYHQ/s72/F72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-ZZM2t1m2CUE/XipA0e-ywmI/AAAAAAAAA3U/mL718Si5fPkevHVFfKIBIJQlsNHCfew7wCLcBGAsYHQ/s96/F96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-nzduToE3PUc/XipAyRM8i4I/AAAAAAAAA28/9IDybXFCFiwe5inXYzjSMzPz15qlXA2UgCLcBGAsYHQ/s144/F144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-1mNhzCf_B_A/XipAyXzswtI/AAAAAAAAA3A/B0tckJFFrv8X_B2B0W6JAy5_mGWYDtsIACLcBGAsYHQ/s168/F168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-zSQ8c-p996o/XipAyWCzzFI/AAAAAAAAA3E/t7sAKp_vQfcLWegl4SWF9cZ5vpCqNbBPQCLcBGAsYHQ/s192/F192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-oLhnaUBkPNU/XipAz3N0NSI/AAAAAAAAA3M/ZCdYJ9He8AEnNWWYnN2w6mdyDho4F-mygCLcBGAsYHQ/s512/F512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
